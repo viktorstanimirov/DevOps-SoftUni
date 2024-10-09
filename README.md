@@ -3,5 +3,3 @@
 # DevOps-SoftUni
 
 SoftUni - DevOps
-
-this is test for my exercise!!!
